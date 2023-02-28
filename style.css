@@ -1,0 +1,37 @@
+* {
+  padding: 0px;
+  margin-left: 5px;
+}
+
+body {
+  width: 80%;
+  font-family: sans-serif;
+}
+
+.title-center,
+.background-black {
+  text-align: center;
+}
+
+.color-blue {
+  color: blue;
+}
+
+.background-blue {
+  opacity: 0.9;
+  background: blue;
+  color: white;
+  padding: 10px;
+}
+
+ol {
+  padding: 12px;
+  text-decoration-line: underline
+}
+
+.background-black {
+  background: black;
+  color: white;
+  padding: 10px;
+  
+}
